@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - uses: andrejarrell/devposts@master
+      - uses: andrejarrell/devposts@v1
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           posts_amount: 10

@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - uses: andrejarrell/devposts@v1
+      - uses: andrejarrell/devposts@1.2.0
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           posts_amount: 10
-          posts_feed: https://dev.to/feed/andrejarrell
+          dev_username: andrejarrell
           commit_username: andrejarrell's action
           commit_email: action@andrejarrell.com

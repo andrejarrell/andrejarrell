@@ -13,7 +13,6 @@
     <img alt="Glitch" src="https://img.shields.io/badge/Glitch-3333FF?style=flat-square&logo=glitch&logoColor=white">
 </a>
 
-
 I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, CSS) and the Back End (Databases, APIs, Routing). It is my passion to create new things and get better at what I do.
 
 ## ⚡ Technologies
@@ -45,11 +44,11 @@ I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, C
 ## 📊 Stats
 
 <a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api?username=andrejarrell&show_icons=true&count_private=true&hide_border=true">
+    <img align="left" src="https://stats.andrejarrell.com/api?username=andrejarrell&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff">
 </a>
 
 <a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api/top-langs/?username=andrejarrell&layout=default&hide_border=true">
+    <img align="left" src="https://stats.andrejarrell.com/api/top-langs/?username=andrejarrell&layout=default&hide_border=true&bg_color=ffffff">
 </a>
 
 ## 📝 Posts

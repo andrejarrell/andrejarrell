@@ -1,0 +1,15 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Andre Jarrell <mail@andrejarrell.com> (https://andrejarrell.com)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.28.0",
+    "xml2js": "^0.4.23"
+  }
+}

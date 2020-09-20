@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Andre Jarrell</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="shortcut icon" href="img/logo.png">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+        <link rel="stylesheet" href="css/neon.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css">
+        <link rel="stylesheet" href="css/custom.css">
+    </head>
+    <body>
+        <div id="app" class="container text-center">
+            <div id="banner" class="card mb-4 mt-4">
+                <h1 class="display-2">
+                    Andre Jarrel<span class="vim-caret">l</span>
+                </h1>
+                <div class="card-body">
+                    <img v-for="badge in badges" :src="badge" class="m-1 shield shadow">
+                </div>
+            </div>
+            <div class="card-columns">
+                <div v-for="card in cards" class="card mb-4">
+                    <div v-if="card.type === 'post'" class="card-header text-muted">
+                        Blog Post
+                    </div>
+                    <div v-if="card.type === 'repo'" class="card-header text-muted">
+                        GitHub Repo
+                    </div>
+                    <img v-if="card.image" class="card-img-top" :src="card.image">
+                    <div class="card-body">
+                        <h4 class="card-title">{{ card.title }}</h4>
+                        <div class="mb-3">
+                            <div v-for="tag in card.tags" class="badge badge-info badge-pill m-1">
+                                {{ tag }}
+                            </div>
+                        </div>
+                        <a v-if="card.type === 'post'" :href="card.link" class="btn btn-info btn-block" target="_blank">
+                            <i class="fab fa-readme mr-2"></i>
+                            Read
+                        </a>
+                        <a v-if="card.type === 'repo'" :href="card.link" class="btn btn-info btn-block" target="_blank">
+                            <i class="fab fa-github mr-2"></i>
+                            View
+                        </a>
+                    </div>
+                    <div class="card-footer text-muted">
+                        {{ card.date }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+        <script src="app.js" type="module"></script>
+    </body>
+</html>

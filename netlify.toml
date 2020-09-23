@@ -1,9 +1,7 @@
 [build]
-    base = "site"
-    publish = "src"
-    command = "npm run build"
+    publish = "public"
 [[redirects]]
-    from = "/github"
+    from = "/"
     to = "https://github.com/andrejarrell"
 [[redirects]]
     from = "/digitalocean"

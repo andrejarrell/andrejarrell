@@ -15,6 +15,8 @@
 
 I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, CSS) and the Back End (Databases, APIs, Routing). It is my passion to create new things and get better at what I do.
 
+> Creator of [listcord.net](https://listcord.net). A free listing website for Discord servers.
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&color=black)

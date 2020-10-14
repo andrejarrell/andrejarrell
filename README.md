@@ -41,7 +41,7 @@ I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, C
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Sass](https://img.shields.io/badge/Electron-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ## 📊 Stats
 

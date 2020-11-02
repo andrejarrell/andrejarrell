@@ -1,11 +1,5 @@
 ## <img src="https://andrejarrell.com/img/cat.gif" width="30">  About 
 
-<a href="https://andrejarrell.com/linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="https://andrejarrell.com/instagram">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
 <a href="https://andrejarrell.com/dev">
     <img alt="Dev" src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white">
 </a>

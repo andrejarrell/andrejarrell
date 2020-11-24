@@ -37,15 +37,16 @@ I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, C
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 Stats
 
 <a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api?username=andrejarrell&show_icons=true&count_private=true&hide_border=true&bg_color=080c21&icon_color=00c9a7&text_color=e8e6e3&title_color=00c9a7">
+    <img align="left" src="https://stats.andrejarrell.com/api?username=andrejarrell&show_icons=true&count_private=true&hide_border=true&bg_color=fff">
 </a>
 
 <a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api/top-langs/?username=andrejarrell&layout=default&hide_border=true&bg_color=080c21&text_color=e8e6e3&title_color=00c9a7">
+    <img align="left" src="https://stats.andrejarrell.com/api/top-langs/?username=andrejarrell&layout=default&hide_border=true&bg_color=fff">
 </a>
 
 ## 📝 Posts

@@ -12,8 +12,7 @@
 
 **I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, CSS) and the Back End (Databases, APIs, Routing). It is my passion to create new things and get better at what I do.**
 
-> Author of [listcord.net](https://listcord.net) and soon to be [chessify.org](https://chessify.org)
-
+> Author of [listcord.net](https://listcord.net). A listing service for Discord servers.
 ### ⚡ Languages + Markup
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

@@ -6,9 +6,6 @@
 <a href="https://andrejarrell.com/glitch">
     <img alt="Glitch" src="https://img.shields.io/badge/Glitch-3333FF?style=flat-square&logo=glitch&logoColor=white">
 </a>
-<a href="https://andrejarrell.com/linkedin">
-    <img alt="Glitch" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
 
 **I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, CSS) and the Back End (Databases, APIs, Routing). It is my passion to create new things and get better at what I do.**
 

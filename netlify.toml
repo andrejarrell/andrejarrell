@@ -21,3 +21,6 @@
 [[redirects]]
     from = "/chess"
     to = "https://www.chess.com/member/andrejarrell"
+[[redirects]]
+    from = "/pay"
+    to = "https://www.paypal.com/paypalme/andrejarrell"

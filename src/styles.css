@@ -1,0 +1,14 @@
+body {
+    overflow-x: hidden;
+    background: #080c21;
+    background-size: contain;
+}
+
+.squares {
+    background: #0080ff !important;
+}
+
+.logo {
+    width: 100px;
+    height: 100px !important;
+}

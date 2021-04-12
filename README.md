@@ -1,4 +1,4 @@
-## <img src="https://andrejarrell.com/img/cat.gif" width="30">  About 
+## <img src="https://user-images.githubusercontent.com/33952641/114399091-e530e380-9be3-11eb-8ca1-bea946316bdb.gif" width="30">  About 
 
 <a href="https://andrejarrell.com/dev">
     <img alt="Dev" src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white">

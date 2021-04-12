@@ -1,26 +1,18 @@
 [build]
-    publish = "public"
+    publish = "src"
 [[redirects]]
-    from = "/"
+    from = "/github"
     to = "https://github.com/andrejarrell"
 [[redirects]]
-    from = "/digitalocean"
-    to = "https://m.do.co/c/6aef79a2cf4a"
-[[redirects]]
-    from = "/instagram"
-    to = "https://www.instagram.com/andrejarrell"
-[[redirects]]
-    from = "/linkedin"
-    to = "https://www.linkedin.com/in/andrejarrell"
-[[redirects]]
-    from = "/dev"
-    to = "https://dev.to/andrejarrell"
+    from = "/listcord"
+    to = "https://listcord.net"
 [[redirects]]
     from = "/glitch"
     to = "https://glitch.com/@andrejarrell"
 [[redirects]]
-    from = "/chess"
-    to = "https://www.chess.com/member/andrejarrell"
-[[redirects]]
     from = "/pay"
     to = "https://www.paypal.com/paypalme/andrejarrell"
+[[redirects]]
+    from = "/*"
+    to = "/404"
+    status = 404

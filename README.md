@@ -10,6 +10,7 @@
 **I am a Full Stack Web Developer. That means I work on the Front End (JS, HTML, CSS) and the Back End (Databases, APIs, Routing). It is my passion to create new things and get better at what I do.**
 
 > Author of [listcord.net](https://listcord.net). A listing service for Discord servers.
+
 ### ⚡ Languages + Markup
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,12 +64,3 @@
 ![NGINX](https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-## 📊 Stats
-<a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api?username=andrejarrell&show_icons=true&count_private=true&hide_border=true">
-</a>
-
-<a href="https://stats.andrejarrell.com">
-    <img align="left" src="https://stats.andrejarrell.com/api/top-langs?username=andrejarrell&layout=default&hide_border=true">
-</a>

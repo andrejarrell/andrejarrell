@@ -8,21 +8,9 @@ body {
     background: #0080ff !important;
 }
 
-.card {
-    margin-top: 0;
-}
-
 .logo {
     width: 100px;
     height: 100px !important;
-}
-
-.card-header, .card-img-top {
-    border-radius: 7px 7px 0 0 !important;
-}
-
-.card-description {
-    color: white !important;
 }
 
 img {

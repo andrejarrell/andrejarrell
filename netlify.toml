@@ -4,14 +4,17 @@
     from = "/github"
     to = "https://github.com/andrejarrell"
 [[redirects]]
-    from = "/listcord"
-    to = "https://listcord.net"
+    from = "/dev"
+    to = "https://dev.to/andrejarrell"
 [[redirects]]
     from = "/glitch"
     to = "https://glitch.com/@andrejarrell"
 [[redirects]]
-    from = "/pay"
+    from = "/paypal"
     to = "https://www.paypal.com/paypalme/andrejarrell"
+[[redirects]]
+    from = "/venmo"
+    to = "https://venmo.com/code?user_id=2295351243440128824"
 [[redirects]]
     from = "/disney"
     to = "https://gist.github.com/andrejarrell/4b25a6c863eecf6b97ffcc539f8b2cc4#file-disney-md"

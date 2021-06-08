@@ -1,6 +1,9 @@
 [build]
     publish = "src"
 [[redirects]]
+    from = "/*"
+    to = "https://github.com/andrejarrell"
+[[redirects]]
     from = "/github"
     to = "https://github.com/andrejarrell"
 [[redirects]]
@@ -21,7 +24,3 @@
 [[redirects]]
     from = "/disney"
     to = "https://gist.github.com/andrejarrell/4b25a6c863eecf6b97ffcc539f8b2cc4#file-disney-md"
-[[redirects]]
-    from = "/*"
-    to = "/404"
-    status = 404
